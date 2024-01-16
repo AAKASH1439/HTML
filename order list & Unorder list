@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>images</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img height=width="550" src="train img.png" alt="train image">
+<table><caption>Employee Details </caption>
+    <tr>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Fav Language</th>
+</tr>
+    <tr>
+        <td>Aakash</td>
+        <td>Programmer</td>
+        <td>Html</td>
+
+</tr>
+    <tr>
+        <td colspan="2">Aashish</td>
+        <td rowspan="2">PHP</td>
+</tr>
+    <tr>
+        <td colspan="2">Aashish</td>
+
+</tr>
+</table>
+<ul>
+    <li>Aakash</li>
+    <li>Aashish</li>
+    <li>Aman</li>
+</ul>
+<ol type="A">
+    <li>Aakash</li>
+    <li>Aashish</li>
+    <li>Aman</li>
+</ol>
+   
+</body>
+</html>
